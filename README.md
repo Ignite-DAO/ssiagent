@@ -3,10 +3,10 @@
 In the project directory, you can run:
 
 ### `yarn install`
-Edit \node_modules\zilswap-sdk\lib\constants.js
-api.zilliqa.com -> sn.zillacracy.com/api
-and for the websocket sn.zillacracy.com/ws
-
+Edit \node_modules\zilswap-sdk\lib\constants.js\
+api.zilliqa.com -> sn.zillacracy.com/api\
+and for the websocket sn.zillacracy.com/ws\
+\
 Run this command to begin.
 
 ### `yarn start`
@@ -35,5 +35,4 @@ POOL_API_KEY=\
 If standalone or first node\
 DB_PASS=\
 DB_URI=\
-DB_USER=\
-\
+DB_USER=
