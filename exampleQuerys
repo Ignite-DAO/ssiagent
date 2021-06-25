@@ -1,0 +1,30 @@
+{
+ limitOrder {
+    id
+    name
+  }
+}
+
+
+mutation{createLimitOrder(name: "blabla"){
+  id
+  name
+  }
+}
+
+{
+ node {
+    id
+    address
+    status
+    master
+  }
+}
+
+mutation{createNode(address: "blabla", status: true){
+  id
+  address
+  status
+  master
+  }
+}
